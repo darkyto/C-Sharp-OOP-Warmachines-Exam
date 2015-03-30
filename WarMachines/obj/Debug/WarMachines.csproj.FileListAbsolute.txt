@@ -1,0 +1,6 @@
+D:\TELERIK\C# Part Three OOP\Exam Warmachines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe.config
+D:\TELERIK\C# Part Three OOP\Exam Warmachines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.csprojResolveAssemblyReference.cache
+D:\TELERIK\C# Part Three OOP\Exam Warmachines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe
+D:\TELERIK\C# Part Three OOP\Exam Warmachines\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.pdb
+D:\TELERIK\C# Part Three OOP\Exam Warmachines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.exe
+D:\TELERIK\C# Part Three OOP\Exam Warmachines\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.pdb
